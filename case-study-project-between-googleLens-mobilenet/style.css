@@ -1,0 +1,19 @@
+.heading{
+    color: red;
+    font-size: 18px;
+}
+.hello{
+    font-size:18;
+}
+.div-1{
+background-color: grey;
+color: aliceblue;
+border-radius: 25px;
+padding: 20;
+margin: 25px;
+
+}
+.img-responsive{
+    height: 250px;
+    width: 350px;
+}
